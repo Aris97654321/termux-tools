@@ -1,0 +1,5 @@
+"Prosess Bosqquu........." |lolcat
+clear
+git clone https://github.com/MiraApsari/kubik
+cd kubik
+php kubik.php
