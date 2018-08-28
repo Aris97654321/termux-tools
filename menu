@@ -1,0 +1,69 @@
+#!/bin/bash
+# Script Modified By-Arisabdulaziz
+clear
+echo "----Selamat Datang di Script Menu Termux---"|lolcat
+echo "---------Created By. Arisabdulaziz---------"|lolcat
+date | lolcat
+echo "-------------------------------------------"| lolcat
+echo ""
+echo  "Daftar Menu;"| lolcat
+echo ""
+echo ""
+echo  "1.Bot Kubik" |lolcat
+echo  "2.Bot Facebook"| lolcat
+echo  "3.Bot Instagram"| lolcat
+echo  "4.Yt Converter"| lolcat
+echo  "5.Sunda Translator"| lolcat
+echo  "6.Info Cuaca"| lolcat
+echo  "7.Ddos Script"| lolcat
+echo  "8.Deface Web"| lolcat
+echo  ""
+echo  "--------------------------------------------"| lolcat
+read -p "Tulis Pilihan Anda (angka):" x
+if [ $x -eq 1 ];
+then
+clear
+echo "Sedang Diproses............"|lolcat
+bash 1;
+fi
+if [ $x -eq 2 ];
+then
+clear
+echo "Sedang Diproses............"|lolcat
+bash 2;
+fi
+if [ $x -eq 3 ];
+then
+clear:
+echo "Sedang Diproses............"|lolcat
+bash 3;
+fi
+if [ $x -eq 4 ];
+clear
+echo "Sedang Diproses............"|lolcat
+bash 4;
+fi
+if [ $x -eq 5 ];
+then
+clear
+echo "Sedang Diproses............"|lolcat
+bash 5;
+fi
+if [ $x -eq 6 ];
+then
+clear
+echo "Sedang Diproses............"|lolcat
+bash 6;
+fi
+if [ $x -eq 7 ];
+then
+clear
+echo "Sedang Diproses............"|lolcat
+bash 7;
+fi
+if [ $x -eq 8 ];
+then
+clear
+echo "Sedang Diproses............"|lolcat
+bash 8;
+fi
