@@ -1,4 +1,5 @@
 clear
 cd termux-tools
 cd fb-bot
+pip2 install -r requirements.txt
 python2 osif.py
