@@ -24,46 +24,46 @@ if [ $x -eq 1 ];
 then
 clear
 echo "Sedang Diproses............"|lolcat
-bash 1;
+./bot-kubik;
 fi
 if [ $x -eq 2 ];
 then
 clear
 echo "Sedang Diproses............"|lolcat
-bash 2;
+./bot-fb;
 fi
 if [ $x -eq 3 ];
 then
 clear:
 echo "Sedang Diproses............"|lolcat
-bash 3;
+./bot-ig;
 fi
 if [ $x -eq 4 ];
 clear
 echo "Sedang Diproses............"|lolcat
-bash 4;
+./yt-convert;
 fi
 if [ $x -eq 5 ];
 then
 clear
 echo "Sedang Diproses............"|lolcat
-bash 5;
+./sunda-translate;
 fi
 if [ $x -eq 6 ];
 then
 clear
 echo "Sedang Diproses............"|lolcat
-bash 6;
+./info-cuaca;
 fi
 if [ $x -eq 7 ];
 then
 clear
 echo "Sedang Diproses............"|lolcat
-bash 7;
+./ddos-script;
 fi
 if [ $x -eq 8 ];
 then
 clear
 echo "Sedang Diproses............"|lolcat
-bash 8;
+./deface;
 fi
