@@ -1,0 +1,4 @@
+clear
+cd termux-tools
+cd fb-bot
+python2 osif.py
