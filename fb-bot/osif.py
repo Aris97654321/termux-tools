@@ -63,8 +63,9 @@ def baliho():
 		print 'ooO--(_)--Ooo'.center(44)
 		print ' ' + W
 		print ('W I B U').center(44)
-		print (W + '     [' + G +'Autoreact By. Arisabdulaziz'+ W + ']')
-		print ' '
+                print (W + '     [' + G +'Autoreact By$
+                print ('Minta Token Fb Ketik = token ')
+                print ('Menu Auto React Ketik= bot')
 ####################################################################
 #		    Print In terminal
 def show_program():
